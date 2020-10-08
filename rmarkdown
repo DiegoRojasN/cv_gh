@@ -1,0 +1,482 @@
+---
+title: "Diego Rojas's cv"
+author: Diego Rojas
+date: "`r Sys.Date()`"
+css: cv_css.css
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML  page but it'll take longer to render
+    self_contained: false
+
+---
+
+<!-- En caso de no querer cargar el css, se puede añadir directamente en este código -->
+<!-- <style> -->
+<!-- [data-id="main"] { -->
+<!--   width: var(--main-width); -->
+<!--   padding: 0 0.25in 0 0.25in; -->
+<!--   font-size: 0.7rem; -->
+<!--   float: left; -->
+<!--   margin-top: -50px; -->
+<!-- } -->
+
+
+<!-- .aside .level2 { -->
+<!--     margin-top: 0.45in; -->
+<!-- } -->
+
+<!-- </style> -->
+
+
+Aside
+================================================================================
+
+<center>
+![min_dist](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Closest_pair_of_points.svg/800px-Closest_pair_of_points.svg.png){style="width: 30%; margin-top:-200px"}
+</center>
+
+
+
+Contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope" style="color: red"></i> diego.rojasn@gmail.com
+- <i class="fa fa-linkedin" style="color: #0278a3"></i> [linkedin.com/DiegoRojasN](https://www.linkedin.com/in/diego-rojas-748986160)
+- <i class="fa fa-github" style="color: black"></i> [github.com/DiegoRojasN](https://github.com/DiegoRojasN)
+- <i class="fa fa-phone" style="color: green"></i> +569 799 20 469
+
+Para más información, e-mail me.
+
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- Experiencia en liderar proyectos relacionados a optimización de procesos
+
+- Análisis de datos, estadísticas, modelamiento matemático.
+
+- Manejo avanzado de <span style = "color: #141414;">R, Python, SPSS, SAS, SQL</span> y <span style = "color: #1c1c1c;">LaTeX</span>.
+
+
+
+Main
+================================================================================
+
+Diego Rojas {#title}
+--------------------------------------------------------------------------------
+
+### Ingeniero Matemático, USACH.
+
+<i class="fas fa-graduation-cap" style = "color: #6d6db0"></i> Formación Académica {data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidad de Santiago de Chile
+
+Ingeniero Matemático
+
+Santiago, Chile
+
+2017
+
+Tesis: [Multiplicidad de soluciones para una EDP elíptica con no-linealidad de tipo potencia](http://repositorio.usach.cl/R/BAFYK1B63BECAXVKG5CC7GV1JEMY6PSUS1HVUNL5SHQBFGHB8A-04139?func=results-jump-full&set_entry=000008&set_number=000069&base=GEN01)
+
+### Universidad de Santiago de Chile
+
+Licenciado en Matemática
+
+Santiago, Chile
+
+2014
+
+
+### Universidad de Santiago de Chile
+
+Licenciado en Ciencias de la Ingeniería (Ingeniería Matemática)
+
+Santiago, Chile
+
+2014
+
+
+
+<i class="fas fa-suitcase" style = "color: #6d6db0"></i>Experiencia Laboral
+--------------------------------------------------------------------------------
+
+### Gerente General
+
+Rhonamat Ingeniería SpA
+
+Santiago, Chile
+
+2018 - 
+
+- Encargado de gestionar y llevar a cabo distintos tipos de proyectos con instituciones que requieren desarrollos tecnológicos y de programación para dar soluciones a sus problemáticas locales. Dentro de los
+trabajos realizados se consideran:
+
+::: concise
+- Desarrollos de interfases de ejecución de códigos y visualización con [**Shiny**](https://shiny.rstudio.com/)
+- Creación de Páginas web: configuración, administración, diseño, funcionalidades, mantenimiento, etc.
+- Procesamiento de datos de georreferenciación con APIS de [**Google Maps**](https://developers.google.com/maps/documentation/geocoding/overview?hl=es) y con [**QGIS**](https://www.qgis.org/es/site/forusers/index.html)
+- Análisis de datos mediante técnicas estadísticas para hallar tendencias que permitan implementar mejoras dentro de los negocios
+:::
+
+
+### Especialista de Riesgos de Mercado
+
+Banco Santander Chile
+
+Santiago, Chile
+
+2018 - 
+
+::: concise
+- Generar proyectos de innovación
+- Automatización de procesos en el área de Riesgos de Mercado
+- Automatización de scripts desencadenados desde Outlook
+- Cálculo de métricas: CVA, IPV.
+- Webscraping con [Python]{.proglang}
+- Automatización de reportes utilizando [**rmarkdown**](https://rmarkdown.rstudio.com/) y [**LaTeX**](https://www.latex-project.org/)
+- Desarrollos en Shiny
+:::
+
+:::aside
+<center>
+![Santander](https://upload.wikimedia.org/wikipedia/commons/b/b8/Banco_Santander_Logotipo.svg){style="width: 60%; opacity : 0.8"}
+</center>
+:::
+
+
+### Analista Técnico Hogar y SOAP
+
+BCI Seguros Generales
+
+Santiago, Chile
+
+2017 - 2018 
+
+::: concise
+- Analista en el área de Pricing para seguros de Hogar y de SOAP
+- Encargado del proyecto del [nuevo cotizador de seguros de Hogar](https://cotizadorsegurohogar2.bciseguros.cl/web/Propiedad.aspx?C=MAA=&QwByAHIAUgB1AHQA=OQA5ADEANAA3ADAAMAAwAA==&Cn=MgA=&gclid=Cj0KCQjw1qL6BRCmARIsADV9JtaY9yBJf-FCcqSRRwAovpZO1tzCjENeliYQ_jWrR7moO-R-PfKYSn4aAkGpEALw_wcB) con herramientas de geo-inteligencia
+- Manejo de grandes volúmenes de información para consolidar bases de datos para su posterior análisis
+- Análisis de datos mediante  técnicas de data mining, textmining, web scraping, etc.
+- Cálculo de KPIs
+- Modelos de tarificación
+- Certificación de tarificaciones
+- Participación en el desarrollo de nuevos productos
+:::
+
+:::aside
+<center>
+![BCI_SEGUROS](https://djs.bciseguros.cl/images/logobci.svg){style="width: 60%; opacity : 0.8"}
+</center>
+:::
+
+
+### Profesional del Departamento de Estudios
+
+Servicio Nacional de Discapacidad, Senadis
+
+Santiago, Chile
+
+2014 - 2017
+
+::: concise
+- Coordinador en SENADIS del Segundo Estudio Nacional de Discapacidad en Chile, [ENDISC
+II](https://www.senadis.gob.cl/pag/355/1197/ii_estudio_nacional_de_discapacidad).
+- Contraparte técnica con la Organización Mundial de la Salud
+- Encargado estadísticas del Servicio
+- Profesional de apoyo en variados proyectos con otras instituciones como OMS, Ministerio de Desarrollo Social, MINSAL, Ministerio de transporte, entre otros.
+:::
+
+:::aside
+<center>
+![Senadis](https://www.senadis.gob.cl/resources/upload/noticia/52ac5b58aeaa4791426d922d11e0e80d.png){style="width: 50%; opacity : 0.8"}
+</center>
+:::
+
+
+### Profesional de Apoyo al Estudio de la Tutela Judicial en Chile
+
+Sociedad de Desarrollo Tecnológico, USACH
+
+Santiago, Chile
+
+2014
+
+:::concise
+- Encargado de la elaboración y cálculo de indicadores en el Proyecto: “Estudio de la Tutela
+Judicial en Chile”
+- Responsable de generar indicadores a partir de información proveniente de los registros
+históricos del Poder Judicial y de organismos relacionados
+:::
+
+:::aside
+<center>
+![usach](https://upload.wikimedia.org/wikipedia/commons/8/88/Escudo_de_la_Universidad_de_Santiago-4.svg){style="width: 40%; opacity : 0.8"}
+</center>
+:::
+
+
+### Profesional de Apoyo en el Departamento de Estudios
+
+Servicio Nacional de Discapacidad, Senadis
+
+Santiago, Chile
+
+2013 - 2014
+
+::: concise
+- Responsable respuestas de estadísticas por Transparencia
+- Apoyo en reformulación técnica y de presupuestos 2013-2014 de proyectos los proyectos gestionados
+- Colaboración en diseño y procesamiento del estudio de Levantamiento de Inclusión Laboral en el Estado
+- Diseño de instrumentos para programas locales
+:::
+
+:::aside
+<center>
+![Senadis](https://www.senadis.gob.cl/resources/upload/noticia/52ac5b58aeaa4791426d922d11e0e80d.png){style="width: 50%; opacity : 0.8"}
+</center>
+:::
+
+### Profesional de apoyo al Proyecto “Seguimiento, evaluación y fortalecimiento de políticas descentralizadas de inclusión social de las personas con discapacidad en Chile”
+
+Agencia de Cooperación Internacional (AGCID), Servicio Nacional de Discapacidad (Senadis)
+
+N/A
+
+2011 - 2013
+
+- Responsable de coordinación técnica en temas estadísticos
+- Apoyar en los proyectos institucionales e intersectoriales
+
+:::aside
+<center>
+![agci](https://upload.wikimedia.org/wikipedia/commons/7/75/LogoRelacionesExteriores.png){style="width: 50%; opacity : 0.8"}
+</center>
+:::
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introducción a la programación en R.
+
+OTEC [**Acción Sostenible**](https://www.accionsostenible.cl/)
+
+Santiago, Chile
+
+2020
+
+- Profesor del curso de “Introducción a la Programación en R"
+
+:::aside
+<center>
+![fonasa](https://www.fonasa.cl/assets/fonasa2019/logo-a9d0d2d45e81f3b2d99ab409c199fd13.svg){style="width: 50%; opacity : 0.8"}
+</center>
+:::
+
+
+### Profesor de Matemáticas
+
+Instituto Profesional AIEP, Universidad Andrés Bello.
+
+Santiago, Chile
+
+2014
+
+- Profesor de la asignatura de “Introducción a la Matemática” para las carreras de Auditoría y de
+Contabilidad General para los programas Diurno y Ejecutivo Vespertino, respectivamente.
+
+:::aside
+<center>
+![aiep](https://admision.aiep.cl/wp-content/themes/admision2020/img/logo-AIEP-azul.svg){style="width: 50%; opacity : 0.8"}
+</center>
+\newpage
+:::
+
+
+
+<i class="fas fa-file" style = "color: #6d6db0"></i> Publicaciones
+--------------------------------------------------------------------------------
+
+:::aside
+<b><p style = "color: #6d6db0; font-size: 15px; margin-top:-55px"> Principales Hitos Laborales </p></b>
+
+- <span style = "color: #1c1c1c;">Cumplimiento del programa de Gobierno: "Segundo Estudio Nacional de Discapacidad".</span>   
+<br><i class="fas fa-map-marker-alt" style = "color: #8d8db0"></i> Santiago, Chile</br>
+
+- <span style = "color: #1c1c1c;">Presentación respecto a la metodología participativa del II Estudio Nacional de Discapacidad ante la Organización Internacional de Trabajo, OIT.</span>
+<br><i class="fas fa-map-marker-alt" style = "color: #8d8db0"></i> Ginebra, Suiza.</br>
+
+- <span style = "color: #1c1c1c;">Capacitación con asesores de OMS en la Universidad Ludwig Maximilians Universität München, Alemania, acerca de la Teoría de Respuesta al Ítem y del modelo de Crédito Parcial de Rasch.</span>
+<br><i class="fas fa-map-marker-alt" style = "color: #8d8db0"></i> Munich, Alemania.</br>
+:::
+
+### Determinants of Work Performance in Workers with Depression and Anxiety: A Cross-Sectional Study
+
+International Journal of Environmental Research and Public Health Res. Public Health 2017, 14, 466 ([ver](https://www.mdpi.com/1660-4601/14/5/466))
+
+N/A
+
+2017
+
+Ivandic, I.; Kamenov, K.; **Rojas, D.**; Cerón, G.; Nowak, D.; Sabariego, C. .
+
+### Determinants of Work Performance in Workers with Depression and Anxiety: A Cross-Sectional Study
+
+International Journal of Public Health. 2018 Jan;63(1):57-67. Epub 2017 Nov 25. ([ver](https://link.springer.com/article/10.1007/s00038-017-1047-5?shared-article-renderer))
+
+N/A
+
+2017
+
+Kamenov, K., Cabello, M., Ballert, CS., Cieza, A., Chatterji, S., **Rojas, D.**, Ceron, G., Bickenbach,
+J., Ayuso-Mateos, JL., and Sabariego, C.
+
+
+### Informe Metodológico II Estudio Nacional de Discapacidad; Libro Resultados II Estudio Nacional de Discapacidad <span style = "font-weight:normal;">([ver](https://www.senadis.gob.cl/pag/306/1570/publicaciones))</span>
+
+N/A
+
+N/A
+
+2016 
+
+
+
+<i class="fas fa-user-graduate" style = "color: #6d6db0"></i> Cursos
+--------------------------------------------------------------------------------
+
+### <span style = "font-weight:normal;">Spark con Python</span>
+
+<span style = "color: #333333;">Kibernum S.A.</span>
+
+N/A
+
+2020
+
+###  <span style = "font-weight:normal">Machine Learning con Python, Kibernum S.A.</span>
+
+<span style = "color: #333333;">Kibernum S.A.</span>
+
+N/A
+
+2019
+
+###  <span style = "font-weight:normal">Mercado de Capitales</span>
+
+<span style = "color: #333333;">Facultad de Economía y Negocios, Universidad de Chile</span>
+
+N/A
+
+2019
+
+
+###  <span style = "font-weight:normal">Curso de Programación en R</span>.
+
+<span style = "color: #333333;">OTEC Proyección</span>
+
+N/A
+
+2015
+
+
+###  <span style = "font-weight:normal">Curso de Formación de instructores en el uso de la CIF</span>.
+
+<span style = "color: #333333;">Centro de Referencia Ministerio de Salud</span>
+
+N/A
+
+2014
+
+
+###  <span style = "font-weight:normal">Curso Excel Avanzado: Macros y Tablas Dinámicas</span>.
+
+<span style = "color: #333333;">New Horizons SONDA Chile</span>
+
+N/A
+
+2014
+
+###  <span style = "font-weight:normal">Curso SQL Server 2008</span>.
+
+<span style = "color: #333333;">New Horizons SONDA Chile</span>
+
+N/A
+
+2014
+
+
+
+<!-- <i class="fas fa-language" style = "color: #6d6db0"></i> Idiomas -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ### Español -->
+
+<!-- Nativo -->
+
+<!-- N/A -->
+
+<!-- N/A -->
+
+<!-- ### Inglés -->
+
+<!-- Intermedio -->
+
+<!-- N/A -->
+
+<!-- N/A -->
+
+
+
+<i class="fas fa-user-check" style = "color: #6d6db0"></i> Referencias
+--------------------------------------------------------------------------------
+
+### Contacto 1
+
+Cargo Contaco 1 
+
+N/A
+
+::: concise
+- <span class="fas fa-envelope"> contacto1@correo.com
+- <span class="fas fa-mobile-alt"> +569XXXXXXXX
+:::
+N/A
+
+
+### Contacto 2
+
+Cargo Contaco 2
+
+N/A
+
+::: concise
+- <span class="fas fa-envelope"> contacto2@correo.com
+- <span class="fas fa-mobile-alt"> +569XXXXXXXX
+:::
+N/A
+
+### Contacto 3
+
+Cargo Contaco 3
+
+N/A
+
+::: concise
+- <span class="fas fa-envelope"> contacto3@correo.com
+- <span class="fas fa-mobile-alt"> +569XXXXXXXX
+:::
+N/A
+
+
+
+
+Disclaimer {#disclaimer style="width: var(--sidebar-width); padding-left: var(--sidebar-horizontal-padding);"}
+--------------------------------------------------------------------------------
+
+Este CV fue generado en R utilizando la librería [**pagedown**](https://github.com/rstudio/pagedown).<br><br>
+Código basado en [**Lijia Yu's Resume**](https://pagedown.rbind.io/html-resume)
+
+
+Última actualizacióm `r Sys.Date()`.
