@@ -1,0 +1,4 @@
+library(knitr)
+library(pagedown)
+
+pagedown::chrome_print("C:/Users/diego/Documentos/Proyectos R/CV/CV_gh.Rmd")
